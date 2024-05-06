@@ -1,0 +1,7 @@
+{
+    "rpc": ["wss://devnet-rpc.cess.cloud/ws/"],
+    "mnemonic": "",
+    "contract": "7352188979857675C3aD1AA6662326ebD6DDBf6d",
+    "gasLimit": 3000000,
+    "maxFeePerGas": 500000000
+}
